@@ -1,3 +1,4 @@
-/* This is a multi-
-line comment */
-//this is comment.
+// Setup
+var a;
+a=7;
+// Only change code below this line
