@@ -1,3 +1,1 @@
-const ourDecimal = 5.7;
-var myDecimal = 5.7;
-// Only change code below this line
+const quotient = 4.4 / 2.0; // Change this line
