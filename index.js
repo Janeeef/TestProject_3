@@ -1,3 +1,6 @@
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
 // Only change code below this line
-const myName = "Janeef";
-const myStr = "My name is"+myName+"and I am well!";
+lastNameLength = lastName.length
