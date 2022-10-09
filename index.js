@@ -1,2 +1,3 @@
-// Only change code below this line
-const myArray = [["One, 1"], ["Two", 2]];
+const myArray = [50, 60, 70];
+console.log(myArray[0]);
+var myData = myArray[0];
