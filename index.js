@@ -1,1 +1,4 @@
-const myList = [["Chocolate", 1],["Milk", 2],["Pasta", 3],["Pizza", 4],["Juice", 5]];
+function reusableFunction () {
+    console.log("Hi World");
+  }
+  reusableFunction ()
