@@ -1,4 +1,4 @@
-function functionWithArgs(one, two) {
-  console.log(one + two);
+function timesFive(num) {
+  return num*5;
 }
-functionWithArgs(7, 9);
+const answer = timesFive(3);
